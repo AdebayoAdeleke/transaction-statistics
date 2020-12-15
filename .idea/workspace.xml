@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="218fffd2-81f8-4e33-b0ad-99c60ed61a37" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-challenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/coding-challenge.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/java/com/n26/HttpJsonIT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/java/com/n26/HttpJsonIT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/educlimax/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aadeleke/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/educlimax/statistics/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aadeleke/statistics/config/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/educlimax/statistics/controller/ControllerAdvisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aadeleke/statistics/controller/ControllerAdvisor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/educlimax/statistics/controller/StatisticsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aadeleke/statistics/controller/StatisticsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/educlimax/statistics/dto/Response.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aadeleke/statistics/dto/Response.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/educlimax/statistics/dto/TransactionDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aadeleke/statistics/dto/TransactionDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/educlimax/statistics/dto/TransactionStatisticsDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aadeleke/statistics/dto/TransactionStatisticsDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/educlimax/statistics/exception/TransactionException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aadeleke/statistics/exception/TransactionException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/educlimax/statistics/model/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aadeleke/statistics/model/Transaction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/educlimax/statistics/model/TransactionStatistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aadeleke/statistics/model/TransactionStatistics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/educlimax/statistics/repository/TransactionRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aadeleke/statistics/repository/TransactionRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/educlimax/statistics/repository/implementation/TransactionRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aadeleke/statistics/repository/implementation/TransactionRepositoryImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/educlimax/statistics/service/StatisticsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aadeleke/statistics/service/StatisticsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/educlimax/statistics/service/implementation/StatisticsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aadeleke/statistics/service/implementation/StatisticsServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/educlimax/statistics/util/IndexGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aadeleke/statistics/util/IndexGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/educlimax/statistics/util/ResponseUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aadeleke/statistics/util/ResponseUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/com/educlimax/statistics/repository/implementation/TransactionRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/com/educlimax/statistics/repository/implementation/TransactionRepositoryImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/com/educlimax/statistics/service/implementation/StatisticsServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/com/educlimax/statistics/service/implementation/StatisticsServiceImplTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -111,8 +88,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/aadeleke/statistics/repository/implementation/TransactionRepositoryImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+            <state relative-caret-position="447">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
             </state>
           </provider>
         </entry>
@@ -295,6 +272,10 @@
               <item name="service" type="462c0819:PsiDirectoryNode" />
               <item name="implementation" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="transaction-statistics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -333,18 +314,25 @@
       <updated>1579460411201</updated>
       <workItem from="1579460413531" duration="658000" />
       <workItem from="1608039238117" duration="309000" />
-      <workItem from="1608045085529" duration="266000" />
+      <workItem from="1608045085529" duration="748000" />
     </task>
+    <task id="LOCAL-00001" summary="Refactored app">
+      <created>1608045591129</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608045591129</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1233000" />
+    <option name="totallyTimeSpent" value="1715000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -361,7 +349,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.22048193" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.25903615" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -387,6 +375,12 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Refactored app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactored app" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -505,8 +499,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/aadeleke/statistics/repository/implementation/TransactionRepositoryImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        <state relative-caret-position="447">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>
