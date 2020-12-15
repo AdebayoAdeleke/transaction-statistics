@@ -1,13 +1,10 @@
-package com.educlimax.statistics.model;
+package com.aadeleke.statistics.model;
 
 
 import java.math.BigDecimal;
 import java.time.Instant;
 
-/**
- * @author FortunatusE
- * @date 12/7/2018
- */
+
 
 public class Transaction {
 

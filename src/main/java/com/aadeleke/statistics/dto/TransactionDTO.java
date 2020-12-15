@@ -1,4 +1,4 @@
-package com.educlimax.statistics.dto;
+package com.aadeleke.statistics.dto;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
@@ -7,10 +7,7 @@ import lombok.Data;
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
 
-/**
- * @author FortunatusE
- * @date 12/7/2018
- */
+
 
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class TransactionDTO {

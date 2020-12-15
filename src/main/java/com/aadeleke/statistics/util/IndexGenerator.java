@@ -1,4 +1,4 @@
-package com.educlimax.statistics.util;
+package com.aadeleke.statistics.util;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

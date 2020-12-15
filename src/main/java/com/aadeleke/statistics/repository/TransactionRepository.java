@@ -1,6 +1,6 @@
-package com.educlimax.statistics.repository;
+package com.aadeleke.statistics.repository;
 
-import com.educlimax.statistics.model.Transaction;
+import com.aadeleke.statistics.model.Transaction;
 
 import java.util.List;
 

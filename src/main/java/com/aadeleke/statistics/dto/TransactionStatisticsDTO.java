@@ -1,14 +1,10 @@
-package com.educlimax.statistics.dto;
+package com.aadeleke.statistics.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
 
 import java.math.BigDecimal;
 
-/**
- * @author FortunatusE
- * @date 12/7/2018
- */
 
 public class TransactionStatisticsDTO {
 

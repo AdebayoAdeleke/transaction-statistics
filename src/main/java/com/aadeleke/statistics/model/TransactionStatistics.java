@@ -1,11 +1,7 @@
-package com.educlimax.statistics.model;
+package com.aadeleke.statistics.model;
 
 import java.math.BigDecimal;
 
-/**
- * @author FortunatusE
- * @date 12/7/2018
- */
 
 
 public class TransactionStatistics {

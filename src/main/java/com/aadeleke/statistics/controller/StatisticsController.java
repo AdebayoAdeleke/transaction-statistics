@@ -1,16 +1,12 @@
-package com.educlimax.statistics.controller;
+package com.aadeleke.statistics.controller;
 
-import com.educlimax.statistics.dto.Response;
-import com.educlimax.statistics.dto.TransactionDTO;
-import com.educlimax.statistics.service.StatisticsService;
+import com.aadeleke.statistics.dto.Response;
+import com.aadeleke.statistics.service.StatisticsService;
+import com.aadeleke.statistics.dto.TransactionDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-/**
- * @author FortunatusE
- * @date 12/8/2018
- */
 
 
 @RestController

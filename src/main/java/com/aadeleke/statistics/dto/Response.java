@@ -1,11 +1,10 @@
-package com.educlimax.statistics.dto;
+package com.aadeleke.statistics.dto;
 
 import org.springframework.http.HttpStatus;
 
-/**
- * @author FortunatusE
- * @date 12/9/2018
- */
+
+
+
 public class Response {
 
     private HttpStatus status;

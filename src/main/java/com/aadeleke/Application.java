@@ -1,4 +1,4 @@
-package com.educlimax;
+package com.aadeleke;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

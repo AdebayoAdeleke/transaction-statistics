@@ -1,12 +1,12 @@
 package com.educlimax.statistics.service.implementation;
 
-import com.educlimax.statistics.dto.Response;
-import com.educlimax.statistics.dto.TransactionDTO;
-import com.educlimax.statistics.dto.TransactionStatisticsDTO;
-import com.educlimax.statistics.model.Transaction;
-import com.educlimax.statistics.repository.TransactionRepository;
-import com.educlimax.statistics.service.StatisticsService;
-import com.educlimax.statistics.service.implementation.StatisticsServiceImpl;
+import com.aadeleke.statistics.dto.Response;
+import com.aadeleke.statistics.dto.TransactionDTO;
+import com.aadeleke.statistics.dto.TransactionStatisticsDTO;
+import com.aadeleke.statistics.model.Transaction;
+import com.aadeleke.statistics.repository.TransactionRepository;
+import com.aadeleke.statistics.service.StatisticsService;
+import com.aadeleke.statistics.service.implementation.StatisticsServiceImpl;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -27,10 +27,7 @@ import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
 
 
-/**
- * @author FortunatusE
- * @date 12/8/2018
- */
+
 
 @RunWith(SpringRunner.class)
 public class StatisticsServiceImplTest {

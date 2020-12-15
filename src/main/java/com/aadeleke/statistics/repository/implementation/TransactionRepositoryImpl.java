@@ -1,8 +1,8 @@
-package com.educlimax.statistics.repository.implementation;
+package com.aadeleke.statistics.repository.implementation;
 
-import com.educlimax.statistics.model.Transaction;
-import com.educlimax.statistics.repository.TransactionRepository;
-import com.educlimax.statistics.util.IndexGenerator;
+import com.aadeleke.statistics.util.IndexGenerator;
+import com.aadeleke.statistics.model.Transaction;
+import com.aadeleke.statistics.repository.TransactionRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

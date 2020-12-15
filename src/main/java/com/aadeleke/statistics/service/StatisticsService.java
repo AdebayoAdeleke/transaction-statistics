@@ -1,13 +1,10 @@
-package com.educlimax.statistics.service;
+package com.aadeleke.statistics.service;
 
-import com.educlimax.statistics.dto.Response;
-import com.educlimax.statistics.dto.TransactionDTO;
+import com.aadeleke.statistics.dto.Response;
+import com.aadeleke.statistics.dto.TransactionDTO;
 
 /**
  *  Processes transaction data and computes the statistics
- *
- * @author FortunatusE
- * @date 12/7/2018
  */
 public interface StatisticsService {
 

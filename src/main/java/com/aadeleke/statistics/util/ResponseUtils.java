@@ -1,6 +1,6 @@
-package com.educlimax.statistics.util;
+package com.aadeleke.statistics.util;
 
-import com.educlimax.statistics.dto.Response;
+import com.aadeleke.statistics.dto.Response;
 import org.springframework.http.HttpStatus;
 
 /**

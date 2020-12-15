@@ -1,14 +1,14 @@
-package com.educlimax.statistics.service.implementation;
+package com.aadeleke.statistics.service.implementation;
 
-import com.educlimax.statistics.dto.Response;
-import com.educlimax.statistics.dto.TransactionDTO;
-import com.educlimax.statistics.dto.TransactionStatisticsDTO;
-import com.educlimax.statistics.exception.TransactionException;
-import com.educlimax.statistics.model.Transaction;
-import com.educlimax.statistics.model.TransactionStatistics;
-import com.educlimax.statistics.repository.TransactionRepository;
-import com.educlimax.statistics.service.StatisticsService;
-import com.educlimax.statistics.util.ResponseUtils;
+import com.aadeleke.statistics.exception.TransactionException;
+import com.aadeleke.statistics.dto.Response;
+import com.aadeleke.statistics.dto.TransactionDTO;
+import com.aadeleke.statistics.dto.TransactionStatisticsDTO;
+import com.aadeleke.statistics.model.Transaction;
+import com.aadeleke.statistics.model.TransactionStatistics;
+import com.aadeleke.statistics.repository.TransactionRepository;
+import com.aadeleke.statistics.service.StatisticsService;
+import com.aadeleke.statistics.util.ResponseUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -29,9 +29,6 @@ import java.util.stream.Collectors;
  * This service uses the UTC for time references as provided by the
  * system clock. The statistics computed by this service are for transactions
  * that occurred in the last 60 seconds.
- *
- * @author FortunatusE
- * @date 12/7/2018
  */
 
 

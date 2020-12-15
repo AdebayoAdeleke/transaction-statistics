@@ -1,4 +1,4 @@
-package com.educlimax.statistics.controller;
+package com.aadeleke.statistics.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -7,10 +7,7 @@ import org.springframework.http.converter.HttpMessageNotReadableException;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 
-/**
- * @author FortunatusE
- * @date 12/8/2018
- */
+
 
 @ControllerAdvice
 public class ControllerAdvisor {

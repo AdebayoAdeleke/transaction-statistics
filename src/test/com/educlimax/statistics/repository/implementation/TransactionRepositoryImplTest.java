@@ -1,8 +1,8 @@
 package com.educlimax.statistics.repository.implementation;
 
-import com.educlimax.statistics.model.Transaction;
-import com.educlimax.statistics.repository.TransactionRepository;
-import com.educlimax.statistics.repository.implementation.TransactionRepositoryImpl;
+import com.aadeleke.statistics.model.Transaction;
+import com.aadeleke.statistics.repository.TransactionRepository;
+import com.aadeleke.statistics.repository.implementation.TransactionRepositoryImpl;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -20,10 +20,6 @@ import java.time.ZoneOffset;
 import java.util.List;
 
 
-/**
- * @author FortunatusE
- * @date 12/8/2018
- */
 
 @RunWith(SpringRunner.class)
 public class TransactionRepositoryImplTest {

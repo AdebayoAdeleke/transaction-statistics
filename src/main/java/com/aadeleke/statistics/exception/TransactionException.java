@@ -1,11 +1,8 @@
-package com.educlimax.statistics.exception;
+package com.aadeleke.statistics.exception;
 
 import org.springframework.http.HttpStatus;
 
-/**
- * @author FortunatusE
- * @date 12/8/2018
- */
+
 public class TransactionException extends RuntimeException {
 
 
